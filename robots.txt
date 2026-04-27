@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://optipressai.netlify.app/sitemap.xml
